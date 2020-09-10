@@ -1,0 +1,6 @@
+taak 02
+A: Activity bar
+B: Side bar
+C: Editor groups
+D: Panels
+E: Status bar
